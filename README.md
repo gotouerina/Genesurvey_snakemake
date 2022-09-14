@@ -2,4 +2,4 @@
 the snakemake of the survey
 
 
-usage:snakemake -s _.py -j number
+usage : snakemake -s _.py -j number
