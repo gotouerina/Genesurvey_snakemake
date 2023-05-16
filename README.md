@@ -11,7 +11,7 @@ usage :
 
     snakemake -s _.py -j number
 
-Warning:Don not run this script twice in same dictionary!!!
+Warning : Don not run this script twice in same dictionary !!!
 
 if genomescope2 you download is broken, try the online website to analysis
 
