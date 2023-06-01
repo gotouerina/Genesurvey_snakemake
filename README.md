@@ -1,4 +1,4 @@
-# Genesurvey_snakemake
+# Genesurvey_snakemake(估计基因组大小)
 the snakemake of the survey
 
 software: jellyfish, kmc, genomescope2
